@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RamasBasicas.iml" filepath="$PROJECT_DIR$/RamasBasicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicramas.iml" filepath="$PROJECT_DIR$/basicramas.iml" />
     </modules>
   </component>
 </project>
